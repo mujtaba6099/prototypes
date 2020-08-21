@@ -1,0 +1,29 @@
+body{
+	background-image: url("images/m2.jpg");
+}
+h1{
+	color: white;
+	font-size: 70px;
+}
+u{
+	color: black;
+}
+u:hover{
+	color: white;
+	font-size: 20px;
+}
+.logo{
+	
+	left: 45%;
+	position: absolute;
+}
+
+.center{
+  width: 400px;
+  padding: 40px;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
